@@ -1,0 +1,21 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+ 
+  }
+  div pre {
+    margin: 0%;
+  }
